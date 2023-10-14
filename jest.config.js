@@ -1,8 +1,8 @@
 const configs = {
   preset: "ts-jest",
   testEnvironment: "node",
-  testMatch: ["**/__tests__/*.+(ts|js)", "**/?(*.)+test.+(ts|js)"],
-  collectCoverageFrom: ["src/functions/*.+(ts|js)"],
+  testMatch: ["**/src/**/*.test.ts"],
+  collectCoverageFrom: ["src/index.ts"],
 };
 
 module.exports = configs;
