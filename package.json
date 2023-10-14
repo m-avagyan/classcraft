@@ -28,13 +28,13 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "build"
+    "dist"
   ],
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --collect-coverage",
-    "build": "rm -rf build && tsc",
-    "build:watch": "rm -rf build && tsc -w"
+    "build": "rm -rf dist && tsc",
+    "build:watch": "rm -rf dist && tsc -w"
   },
   "devDependencies": {
     "@types/jest": "^29.2.4",
