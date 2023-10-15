@@ -1,6 +1,6 @@
 # classcraft
 
-Seamlessly craft and conditionally concatenate class names for your web elements. Make every element's style truly a masterpiece 🚀
+Seamlessly craft and conditionally concatenate class names for your web elements.
 
 ## Installation
 
