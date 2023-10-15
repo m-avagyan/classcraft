@@ -1,6 +1,6 @@
 {
   "name": "classcraft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Seamlessly craft and conditionally concatenate class names for your web elements.",
   "keywords": [
     "javascript",
